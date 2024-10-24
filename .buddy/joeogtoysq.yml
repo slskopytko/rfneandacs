@@ -1,0 +1,4 @@
+- pipeline: joeogtoysq
+  refs:
+  - refs/heads/master
+  on: CLICK
